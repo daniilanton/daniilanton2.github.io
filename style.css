@@ -41,7 +41,7 @@ input[type="text"], input[type="password"]{
 	background-color: #2ca;
 	border:none;
 }
-dws-submit:hover{
+.dws-submit:hover{
 	transition: all 0.9s;
 	background-color: #fff;
 	color: #2c536c;
